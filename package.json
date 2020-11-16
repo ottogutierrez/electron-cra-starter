@@ -1,9 +1,11 @@
 {
   "name": "electron-cra-starter",
   "version": "0.1.0",
+  "description": "Electron app build using CRA and Electron",
   "private": true,
   "main": "electron/main.js",
   "homepage": "./",
+  "author": "Otto Gutierrez",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
